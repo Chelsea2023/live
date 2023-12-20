@@ -26,3 +26,11 @@ CCTV9 ,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV10 ,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV17 ,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
+
+
+
+
+🇨🇳｜央视频道3,#genre#
+
+CCTV1 ,http://cfss.cc/api/ysp/cctv1.m3u8
+CCTV2 ,http://cfss.cc/api/ysp/cctv2.m3u8
