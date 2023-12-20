@@ -15,25 +15,8 @@ cctv13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 
 
 
-🇨🇳｜央视频道2,#genre#
-CCTV1 ,http://cfss.cc/api/ysp/cctv1.m3u8
-CCTV2 ,http://cfss.cc/api/ysp/cctv2.m3u8
-CCTV3 ,http://cfss.cc/api/ysp/cctv3.m3u8
-CCTV4 ,http://cfss.cc/api/ysp/cctv4.m3u8
-CCTV5 ,http://cfss.cc/api/ysp/cctv5.m3u8
-CCTV6 ,http://cfss.cc/api/ysp/cctv6.m3u8
-CCTV7 ,http://cfss.cc/api/ysp/cctv7.m3u8
-CCTV8 ,http://cfss.cc/api/ysp/cctv8.m3u8
-CCTV9 ,http://cfss.cc/api/ysp/cctv9.m3u8
-CCTV10 ,http://cfss.cc/api/ysp/cctv10.m3u8
-CCTV11 ,http://cfss.cc/api/ysp/cctv11.m3u8
-CCTV12 ,http://cfss.cc/api/ysp/cctv12.m3u8
-CCTV13 ,http://cfss.cc/api/ysp/cctv13.m3u8
-CCTV14 ,http://cfss.cc/api/ysp/cctv14.m3u8
-CCTV15 ,http://cfss.cc/api/ysp/cctv15.m3u8
-CCTV16 ,http://cfss.cc/api/ysp/cctv16.m3u8
 
-🇨🇳｜央视频道3,#genre#
+🇨🇳｜央视频道2,#genre#
 CCTV1 ,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2 ,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV3 ,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
